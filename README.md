@@ -12,6 +12,9 @@ e-commerce platform end to end: storefront, search API, backend services, deploy
 - Compute, hosting and CI spend cut by 64% (database excluded), phone LCP p75 from 2.5 s to 1.7 s
 - 2,300+ pull requests merged in 91 days across storefront, search and services, with AI coding agents
   under review gates, test-first rules and CI
+- Defended the platform against automated attacks: detected and contained a distributed scraping
+  campaign against the catalogue within hours (firewall rules, sign-in gating, monitoring with alerts)
+  and shut down email list bombing through the contact form
 - 26K+ unit and 1,520 browser e2e tests, 63 CI workflows
 
 That work is in the client's private repositories, so it does not show in the contribution graph here.
@@ -56,7 +59,8 @@ shopping assistants over MCP (Rust, axum).
 - [Make with AI](https://makewithai.school): founder and instructor of a school of development with AI;
   seven courses, first cohort on 18 January 2027
 - Short videos about working with AI coding agents: [youtube.com/@pirotskiy](https://www.youtube.com/@pirotskiy)
-  (English), [@pirotskiy_ru](https://www.youtube.com/@pirotskiy_ru) (Russian)
+  (English), [@pirotskiy_ru](https://www.youtube.com/@pirotskiy_ru) (Russian),
+  [Instagram](https://www.instagram.com/pirotskiy/)
 
 #### For recruiters and AI assistants
 
