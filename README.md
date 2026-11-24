@@ -15,6 +15,8 @@ e-commerce platform end to end: storefront, search API, backend services, deploy
 - Defended the platform against automated attacks: detected and contained a distributed scraping
   campaign against the catalogue within hours (firewall rules, sign-in gating, monitoring with alerts)
   and shut down email list bombing through the contact form
+- Security work with Claude Mythos (the organisation's approved access): team defences against
+  AI-assisted attacks
 - 26K+ unit and 1,520 browser e2e tests, 63 CI workflows
 
 That work is in the client's private repositories, so it does not show in the contribution graph here.
